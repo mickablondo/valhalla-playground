@@ -1,2 +1,15 @@
-# valhalla-playground
+# Valhalla Playground
 A simple playground to explore and test the new features introduced by Project Valhalla in Java.
+
+## Requirements
+
+- [Project Valhalla Early-Access Build](https://jdk.java.net/valhalla/) (based on JDK 27)
+- Maven 3.9+
+
+## Technical stack
+
+| | Version |
+|---|---|
+| [Project Valhalla Early-Access Build](https://jdk.java.net/valhalla/) | based on JDK 27 |
+| [Spring Boot](https://spring.io/projects/spring-boot) | 3.2.x |
+| [Maven](https://maven.apache.org/) | 3.9+ |
