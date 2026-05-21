@@ -25,5 +25,5 @@ A simple playground to explore and test the new features introduced by Project V
 - Dans le terminal : $env:JAVA_HOME = ".....\....\jdk-27-ea-valhalla" car non reconnu par Intellij 2026.1
 - clean compile : .\mvnw.cmd clean compile => BUILD SUCCESS
 
-Attention, risque de conflit entre lombok et les value classes Valhalla.
+Attention, risque de conflit entre lombok et les value classes Valhalla.  
 Attention, problème pour ouvrir Project Structure avec une jdk 27 sur Intellij 2026.1.
